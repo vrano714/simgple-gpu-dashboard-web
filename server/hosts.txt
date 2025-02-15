@@ -1,0 +1,6 @@
+# lines starting with # are comments and should be ignored
+# host,ip-address with no spaces
+alpha,192.168.100.1
+bravo,192.168.100.2
+charlie,192.168.100.3
+# delta,192.168.100.4
