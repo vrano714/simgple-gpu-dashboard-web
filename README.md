@@ -2,6 +2,8 @@
 
 Tiny toy using React MUI and Python + Shell scripts
 
+![Image](https://github.com/user-attachments/assets/3784dade-3f42-481c-8376-f17c259f9327)
+
 ## Preparation
 
 ### Download files
